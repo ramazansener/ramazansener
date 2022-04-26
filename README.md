@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: ramazansener.com.tr
+  -Linkedin: https://www.linkedin.com/in/ramazansenerr/
