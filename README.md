@@ -6,11 +6,10 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on  small Salesforce projects.
-- 🌱: I’m currently learning Salesforce Engineering . 🧠💻🤖
+- 🔭: I’m currently working on Bootcamp Program at Trendyol Group.
+- 🌱: I’m currently learning Java and a few test automation tools . 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 💬: Ask me about Math. 📊📈🤖🧠
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I play Soccer, Basketball! ⚽🎾🎹
   
